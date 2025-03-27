@@ -9,6 +9,7 @@
 ### learning HTML
 [W3School HTML](https://www.w3schools.com/html/)
 
+[MDN](https://developer.mozilla.org)
 
 ### Install Rust Desk
 [Rust Desk](https://rustdesk.com/)
@@ -31,3 +32,24 @@ save the file with "firstpage.html"
 
 ![html page using notepad](/Assets/firstpage_using_notepad.png)
 [link](https://www.w3schools.com/html/html_editors.asp)
+
+### Usefull Resources
+
+[Lorem](https://www.lipsum.com/)
+
+
+### For images
+
+[Getty Images](https://www.gettyimages.ca/)
+[Unsplash](https://unsplash.com/)
+[Pexels](https://www.pexels.com/)
+[Icons](https://icons8.com/icons/set/button)
+
+
+### Colors
+
+[colors](https://coolors.co/)
+
+### Escape Characters **Reference**
+
+[Escape Characters Reference](https://developer.mozilla.org/en-US/docs/Glossary/Character_reference)
