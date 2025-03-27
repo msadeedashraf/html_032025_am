@@ -10,6 +10,11 @@ Find out the top 10 extension every developer should use.
 
 Create a webpage using title, h1 and p tags.
 
+### Assignment 4
+
+Use this screen shot to replicate
+![Using List](/Assets/chapter3_list_assignment.png)
+
 
 ### Reading Assignment
 
