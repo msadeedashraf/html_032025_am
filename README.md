@@ -7,6 +7,8 @@
 [Step by step guide](https://www.geeksforgeeks.org/how-to-install-visual-studio-code-on-windows/)
 
 ### learning HTML
+[MDN Learning](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started)
+
 [W3School HTML](https://www.w3schools.com/html/)
 
 [MDN](https://developer.mozilla.org)
