@@ -14,3 +14,4 @@ Create a webpage using title, h1 and p tags.
 ### Reading Assignment
 
 Read about W3C
+Read diff b/w strong and b tag.
