@@ -15,6 +15,10 @@ Create a webpage using title, h1 and p tags.
 Use this screen shot to replicate
 ![Using List](/Assets/chapter3_list_assignment.png)
 
+### Assignment 5
+
+Use this screen shot to replicate
+![Using Image](/Assets/chapter5_Images.png)
 
 ### Reading Assignment
 
