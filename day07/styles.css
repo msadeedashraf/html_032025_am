@@ -1,0 +1,33 @@
+
+      body {
+        background-color: rgb(188, 188, 229);
+      }
+      h1 {
+        color: white;
+      }
+      h2 {
+        background-color: grey;
+      }
+      p {
+        font-style: italic;
+        text-align: right;
+      }
+      table {
+        width: 100%;
+        border: 1px solid black;
+      }
+      th {
+        border: 1px solid black;
+        border-radius: 10px;
+        background-color: red;
+      }
+      td {
+        border: 1px solid black;
+        border-radius: 5px;
+      }
+
+      .agecl {
+        background-color: rgb(151, 201, 226);
+      }
+      .agedata{background-color: rgb(191, 133, 233);}
+   
