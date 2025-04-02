@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+<body>
+    <h1>Forms Example</h1>
+    <form action="">
+
+        <p>
+
+            <label for="fname">User Name</label>
+            <input type="text" size="20"  name="fname" id="fname" maxlength="10" minlength="5">
+        </p>
+
+        <p>
+
+            <label for="fname">Password</label>
+            <input type="password" size="20"  name="fname" id="fname" maxlength="10" minlength="5">
+        </p>
+        <p>
+            
+            <label for="comments">Comments</label>
+            <textarea name="comments" cols="30"  rows="10">Enter you comments</textarea>
+        </p>
+
+        <p>Your favorite genre:<br />
+
+            <input type="radio" name="genre"
+              value="rock"  /> Rock
+           
+            <input type="radio" name="genre"
+              value="pop"  checked="checked"/> Pop
+           
+            <input type="radio" name="genre"
+              value="jazz" /> Jazz
+           
+           </p>
+
+           <p>Your favorite music service:<br />
+            <input type="checkbox" name="service"
+             value="iTunes"
+             checked="checked" /> iTunes
+           
+            <input type="checkbox" name="service"
+             value="Last.fm" /> Last.fm
+           
+            <input type="checkbox" name="service"
+             value="Spotify" /> Spotify
+           </p>
+           
+           <p>
+            <select name="devices">
+
+                <option value="iPod"
+                 selected="selected">iPod</option>
+               
+                <option value="radio">Radio</option>
+               
+                <option value="PC">Computer</option>
+               
+               </select>
+               
+           </p>
+
+           <p>
+            <select name="devices" size="4">
+
+                <option value="iPod">iPod</option>
+               
+                <option value="radio" selected="selected">Radio</option>
+               
+                <option value="PC">Computer</option>
+               
+               </select>
+               
+           </p>
+
+
+           <p>
+            <input type="file" name="" id="">
+
+        </p>
+
+        <p>
+            <input type="submit" name="" id="">
+
+        </p>
+        <p>
+            <input type="email" name="" id="">
+
+            <br>
+
+        </p>
+        <p>
+            <fieldset>
+
+            
+            <legend>Contact Details</legend>
+
+                <label for="">Email</label>
+                <input type="email">
+                <br>
+    <br>
+                <label for="">Mobile</label>
+                <input type="email">
+                <br>        
+                <label for="">Phone</label>
+                <input type="email">
+            </fieldset>
+            
+        </p>
+
+<p>
+
+    <input type="search" name="search"
+placeholder="enter text" />
+
+<input type="submit" value="Search" />
+</p>
+
+
+       
+
+        <p>
+          
+
+
+            
+            <button>Submit</button>
+
+        </p>
+    </form>
+</body>
+</html>

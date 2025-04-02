@@ -20,6 +20,12 @@ Use this screen shot to replicate
 Use this screen shot to replicate
 ![Using Image](/Assets/chapter5_Images.png)
 
+### Assignment 6
+
+Use this screen shot to replicate
+![Using Image](/Assets/chapter7.png)
+
+
 ### Reading Assignment
 
 Read about W3C
