@@ -25,6 +25,12 @@ Use this screen shot to replicate
 Use this screen shot to replicate
 ![Using Image](/Assets/chapter7.png)
 
+### Assignment 7
+Create a html page with youtube playlist.
+
+### Assignment 8
+Create an HTML page that plays audio or music in the background when the page loads?
+
 
 ### Reading Assignment
 
