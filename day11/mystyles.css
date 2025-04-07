@@ -1,0 +1,16 @@
+h1 {
+    color: blue;
+}
+body{
+    font-family: Arial, sans-serif;
+    color: #665544;
+    padding: 10px;}
+
+.page
+{
+border: 1px solid black;
+background-color: aliceblue;
+padding: inherit;
+border-radius: 10px;
+
+}
