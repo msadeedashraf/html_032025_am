@@ -31,8 +31,49 @@ Create a html page with youtube playlist.
 ### Assignment 8
 Create an HTML page that plays audio or music in the background when the page loads?
 
+### Assignment 9
+
+Create a layout
+![Layout 1](/assets/layouts/Invitation.JPG)
+
+Create a layout
+![Layout 2](/assets/layouts/Landing-Page.JPG)
+
+Create a layout
+![Layout 3](/assets/layouts/Layout-1.JPG)
+
+Create a layout
+![Layout 4](/assets/layouts/Layout-2.JPG)
+
+Create a layout
+![Layout 5](/assets/layouts/Layout-3.JPG)
+
+Create a layout
+![Layout 6](/assets/layouts/Layout-4.JPG)
+
+Create a layout
+![Layout 7](/assets/layouts/Layout-5.JPG)
+
+
+
 
 ### Reading Assignment
 
 Read about W3C
 Read diff b/w strong and b tag.
+
+### Extra Challenges
+
+### Tables
+Create the following Table Layouts
+
+1.  Layout 1
+![Table Layout1](/assets/tables_layout/Layout_1.png)
+
+2.  Layout 2
+![Table Layout1](/assets/tables_layout/Layout_2.png)
+
+3.  Layout 3
+![Table Layout1](/assets/tables_layout/Layout_3.png)
+
+
