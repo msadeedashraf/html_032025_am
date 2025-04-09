@@ -34,25 +34,25 @@ Create an HTML page that plays audio or music in the background when the page lo
 ### Assignment 9
 
 Create a layout
-![Layout 1](/assets/layouts/Invitation.JPG)
+![Layout 1](/Assets/layouts/Invitation.JPG)
 
 Create a layout
-![Layout 2](/assets/layouts/Landing-Page.JPG)
+![Layout 2](/Assets/layouts/Landing-Page.JPG)
 
 Create a layout
-![Layout 3](/assets/layouts/Layout-1.JPG)
+![Layout 3](/Assets/layouts/Layout-1.JPG)
 
 Create a layout
-![Layout 4](/assets/layouts/Layout-2.JPG)
+![Layout 4](/Assets/layouts/Layout-2.JPG)
 
 Create a layout
-![Layout 5](/assets/layouts/Layout-3.JPG)
+![Layout 5](/Assets/layouts/Layout-3.JPG)
 
 Create a layout
-![Layout 6](/assets/layouts/Layout-4.JPG)
+![Layout 6](/Assets/layouts/Layout-4.JPG)
 
 Create a layout
-![Layout 7](/assets/layouts/Layout-5.JPG)
+![Layout 7](/Assets/layouts/Layout-5.JPG)
 
 
 
@@ -68,12 +68,12 @@ Read diff b/w strong and b tag.
 Create the following Table Layouts
 
 1.  Layout 1
-![Table Layout1](/assets/tables_layout/Layout_1.png)
+![Table Layout1](/Assets/tables_layout/Layout_1.png)
 
 2.  Layout 2
-![Table Layout1](/assets/tables_layout/Layout_2.png)
+![Table Layout1](/Assets/tables_layout/Layout_2.png)
 
 3.  Layout 3
-![Table Layout1](/assets/tables_layout/Layout_3.png)
+![Table Layout1](/Assets/tables_layout/Layout_3.png)
 
 
