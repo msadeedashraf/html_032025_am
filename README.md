@@ -39,6 +39,10 @@ save the file with "firstpage.html"
 
 [Lorem](https://www.lipsum.com/)
 
+### Useful Shortcuts
+
+[VS Code Shortcuts](/Assets/others/KeyboardReferenceSheet.png)
+
 
 ### For images
 
