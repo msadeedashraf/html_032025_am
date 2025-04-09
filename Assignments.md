@@ -56,7 +56,6 @@ Create a layout
 
 
 
-
 ### Reading Assignment
 
 Read about W3C
@@ -77,3 +76,6 @@ Create the following Table Layouts
 ![Table Layout1](/Assets/tables_layout/Layout_3.png)
 
 
+### Portfolio Project
+
+[Portfolio Website](https://www.youtube.com/watch?v=ldwlOzRvYOU&ab_channel=HowtoBecomeaDeveloper)
