@@ -33,25 +33,25 @@ Create an HTML page that plays audio or music in the background when the page lo
 
 ### Assignment 9
 
-Create a layout
+Create a Invitation layout
 ![Layout 1](/Assets/layouts/Invitation.JPG)
 
-Create a layout
+Create a Landing Page layout
 ![Layout 2](/Assets/layouts/Landing-Page.JPG)
 
-Create a layout
+Create a Portfolio layout
 ![Layout 3](/Assets/layouts/Layout-1.JPG)
 
-Create a layout
+Create a Blog layout
 ![Layout 4](/Assets/layouts/Layout-2.JPG)
 
-Create a layout
+Create a Grandma's Secret Recipe layout
 ![Layout 5](/Assets/layouts/Layout-3.JPG)
 
-Create a layout
+Create a Feedback Survey layout
 ![Layout 6](/Assets/layouts/Layout-4.JPG)
 
-Create a layout
+Create e-Commerce layout
 ![Layout 7](/Assets/layouts/Layout-5.JPG)
 
 

@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(185, 225, 225);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    height: 100vh;
+}
+
+
+.invitation{
+
+background-color: #fff;
+padding: 20px;
+border-radius: 10px;
+width: 100%;
+max-width: 500px;
+margin: 20px;
+box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+}
+
+.invitation h1{
+    color: #333;
+    margin-bottom: 50px;
+}
+.date, .place, .desc 
+{
+    margin-bottom: 30px;
+}
+
+.rsvp{
+
+    padding: 10px 35px; 
+    color: #fff;
+    background-color: rgb(80, 187, 80);
+    border-style: none;
+    border-radius: 5px;
+
+
+}
+
+.rsvp:hover
+{
+    background-color:  rgb(57, 145, 57);
+
+}
+
