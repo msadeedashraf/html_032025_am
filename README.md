@@ -13,6 +13,8 @@
 
 [MDN](https://developer.mozilla.org)
 
+[Code Cademy](https://www.codecademy.com/)
+
 ### Install Rust Desk
 [Rust Desk](https://rustdesk.com/)
 
@@ -38,6 +40,7 @@ save the file with "firstpage.html"
 ### Usefull Resources
 
 [Lorem](https://www.lipsum.com/)
+
 
 ### Useful Shortcuts
 

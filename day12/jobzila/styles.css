@@ -133,6 +133,87 @@ footer p a {
 
 /* Privacy CSS Ends*/
 
+/* Job Listing CSS Starts*/
+#joblisting-section{
+    padding: 20px
+}
+
+#joblisting-section h2{
+    margin-bottom: 10px;
+}
+
+
+.job-list
+{
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #edebed;
+
+}
+.learn-more{
+    text-align: right;
+}
+
+
+/* Job Listing CSS Ends*/
+
+
+/* Contact Us CSS Starts*/
+
+
+#contact-frm-sec
+{
+padding: 20px;
+}
+
+#contact-frm-sec h2
+{
+    margin-bottom: 10px;
+
+}
+
+.frm-div
+{
+margin-bottom: 20px;
+border: 1px solid #ccc;
+padding: 20px;
+border-radius: 5px;
+
+}
+#contact-frm
+{
+    background-color: #ffffff      ;
+    padding: 20px;
+
+}
+#contact-frm input, textarea
+{
+width: 100%;
+margin-bottom: 10px;
+padding: 5px;
+border: 1px solid #ccc;
+resize: vertical;
+}
+
+#contact-frm input[type="submit"]
+{
+    background-color: #333;
+    color: #fff;
+    margin-top: 50px;
+    padding: 10px 15px
+}
+
+
+/*
+.my-btn
+{background-color: #a61414;
+
+}
+*/
+
+/* Contact Us CSS Ends*/
 
 
 
